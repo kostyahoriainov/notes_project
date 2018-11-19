@@ -1,0 +1,12 @@
+FaPencil 'react-icons/lib/fa/pencil'
+FaTrash  'react-icons/lib/fa/trash'
+FaPlus   'react-icons/lib/fa/plus'
+FaFloppy 'react-icons/lib/fa/floppy-o'
+
+---- components
+Note.js
+- edit, remove, save, renderForm, renderDisplay
+
+
+App.js 
+---  eachNote,  add, update, remove

@@ -1,11 +1,13 @@
 {
-  "name": "project_1",
+  "name": "notes",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
     "react": "^16.6.3",
     "react-dom": "^16.6.3",
-    "react-scripts": "2.1.1"
+    "react-icons": "^3.2.2",
+    "react-scripts": "2.1.1",
+    "shortid": "^2.2.14"
   },
   "scripts": {
     "start": "react-scripts start",
